@@ -17,3 +17,6 @@ Experiment 4 output :
 
 <img width="583" height="238" alt="image" src="https://github.com/user-attachments/assets/59085789-1cd2-4423-bc3a-3214937525af" />
 
+Experiment 5 output :
+
+<img width="371" height="243" alt="image" src="https://github.com/user-attachments/assets/08d09880-c060-434b-9317-94bb643a9616" />
